@@ -1,5 +1,10 @@
 # Hermes Desktop 简体中文汉化包
 
+> 适用版本：Hermes Desktop **v0.15.1** / Hermes Agent **v2026.5.29**
+> 官网：https://hermes-agent.nousresearch.com/desktop
+
+将 Hermes Desktop 桌面应用界面全面汉化为简体中文。
+
 ## 使用方法
 
 ### 前置条件
